@@ -50,7 +50,7 @@ __CSS → colors & layout for strength symbols (✅/❌)__
 
 __JavaScript → live password checking, enabling/disabling submit button__
 
-### ✍️ Developer: __Soumayjit Sasmal__
+### ✍️ Developer: __Soumyajit Sasmal__
  __📅 Project Date: August 2025__
 
 
