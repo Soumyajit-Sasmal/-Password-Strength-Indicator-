@@ -2,7 +2,7 @@
 
 __Make password validation clear, friendly, and colorful using a symbol‑based strength indicator. Instead of a plain bar, this project uses bold, accessible symbols and colors to show how many rules your password meets at a glance.__
 ## “Password Length Checker”
-## 🌐 Live Demo : [👋Hello and Welcome to My Website....Thanks for Visiting My Web Pages!](https://soumyajit-sasmal.github.io/-Welcome-to-Educational-Platforms-using-Front-End-Technologies/) <br>
+## 🌐 Live Demo : [👋Hello and Welcome to My Website....Thanks for Visiting My Web Pages!](https://soumyajit-sasmal.github.io/-Password-Strength-Indicator-/) <br>
 ### ✨ Highlights
 
 __Symbol‑based UI: ✅/❌ indicators update as you type__
