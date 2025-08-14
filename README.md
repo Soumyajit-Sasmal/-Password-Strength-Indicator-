@@ -49,3 +49,13 @@ __HTML → structure for password field and indicator symbols__
 __CSS → colors & layout for strength symbols (✅/❌)__
 
 __JavaScript → live password checking, enabling/disabling submit button__
+
+
+
+
+
+
+
+
+
+
